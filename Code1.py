@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     name = input()
     print('%.2f' % (sum(stud_dict[name]) / 3.0))
+    print("A New Commit")
