@@ -1,3 +1,4 @@
+print('This is a program for Merging Dictionary')
 num_list = [1, 2, 3, 4, 5, 6]
 new_dict = keys = {}
 for name in num_list:
